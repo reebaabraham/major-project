@@ -93,15 +93,3 @@ body{
   font-size: 28px;
   margin-top: -6px;
 }
-.fixed{
-  position: fixed;
-  bottom: o;
-  left: 0;
-  right: 0;
-  width: 100%;
-  background-color: black;
-  color: white;
-  padding: 22px;
-  text-align: center;
-}
-
